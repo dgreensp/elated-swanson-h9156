@@ -13,7 +13,7 @@ export class Square {
   sideLength;
 
   constructor(sideLength: number) {
-    this.sideLength = "foo";
+    this.sideLength = "foobar";
     this.area = sideLength ** 2;
   }
 }
